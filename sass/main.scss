@@ -1,0 +1,47 @@
+$clr:#D7D3D3;
+$clr2:#BFB0A4;
+
+header{
+	background-color:$clr;
+	width:100%;
+	height:30%;
+}
+.class1{
+	background-color:$clr2;	
+}
+.service{
+background-color:$clr2;	
+}
+
+.carousel-inner img {
+		width: 100%;
+		height: 600px;
+		}
+h1{ 
+text-align:center;
+}
+.class3 {
+img{
+	width:100%;
+	height:600px;
+}
+}
+.class4{
+	img{
+	width:100%;
+	height:200px;
+	}
+}
+	ul
+	{
+		list-style:none;			
+	}
+	.fa_custom {
+color: #0099CC;
+}
+.fa_custominsta{
+  color: #DE28A4;
+}
+.fa_customtwitter{
+	color:#00acee;
+}
